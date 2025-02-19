@@ -1,2 +1,4 @@
-# python_template
-Simple python template
+# Simple fastapi python template
+
+## Setup
+`uv sync`
